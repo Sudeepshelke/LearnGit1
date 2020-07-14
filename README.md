@@ -5,3 +5,6 @@ Doing more changes.
 TO DO : Add JS project 
 
 more changes done local
+
+now learn about folder commit
+
